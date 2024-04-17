@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=50%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -15,8 +15,8 @@
           <br/></div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=oyeong&bg_color=60,8b96e9,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeong&layout=compact&bg_color=60,8b96e9,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=oyeong&bg_color=60,8fd4ff,00000000&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeong&layout=compact&bg_color=60,8fd4ff,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
