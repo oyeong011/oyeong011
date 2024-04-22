@@ -18,7 +18,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=oyeong011&bg_color=180,9eaeff,00000000&title_color=ffffff&text_color=ffffff"
          />  </div> 
     </div>
-<div align="center">
+<div align="right">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyeong011&layout=compact)](https://github.com/oyeong011/github-readme-stats)
 </div>
