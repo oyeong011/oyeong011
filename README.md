@@ -19,6 +19,4 @@
          />  </div> 
     </div>
 
-<div align="center">
-    {[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyeong011&layout=compact)](https://github.com/oyeong011/github-readme-stats)}
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyeong011&layout=compact)](https://github.com/oyeong011/github-readme-stats)
