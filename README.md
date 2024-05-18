@@ -29,7 +29,10 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 Representative Projects </h2>
 <div align="left">
     <ul>
+        <li>nalsee - 오늘 날씨에 사람들은 뭐입고 나가지?</li>
         <li><a href="https://github.com/Nal-see/nal-see-front-pwa">Nal-see Front PWA</a></li>
+        <br>
+        <li>공동 편집이 가능한 멘토링 중점 웹 IDE</li>
         <li><a href="https://github.com/every-ide/IDE-FRONTEND">IDE Frontend</a></li>
     </ul>
 </div>
