@@ -16,6 +16,8 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
           <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
           <br/></div>
     </div>    
     <div style="text-align: left;"> 
@@ -40,3 +42,4 @@
         <li><a href="https://github.com/every-ide/IDE-FRONTEND">IDE Frontend</a></li>
     </ul>
 </div>
+    
