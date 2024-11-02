@@ -26,10 +26,8 @@
 </div> 
     </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Most Language </h2>
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyeong011&layout=compact)](https://github.com/oyeong011/github-readme-stats)
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyeong011)](https://solved.ac/oyeong011)
 </div>
 
