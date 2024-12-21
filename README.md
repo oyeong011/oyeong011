@@ -20,8 +20,7 @@
 
 <div align="center">
 
-| [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyeong011)](https://solved.ac/oyeong011) | [![Leetcode Stats](https://leetcard.jacoblin.cool/oyeong011)](https://leetcode.com/oyeong011) |
-|:---:|:---:|
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyeong011)](https://solved.ac/oyeong011)
 
 </div>
 
