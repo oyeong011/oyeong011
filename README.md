@@ -1,45 +1,30 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=50%20Github&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <br/></div>
-    </div>    
-    <div style="text-align: left;"> 
-    </div>
+# Ohyoung Kwon
 
-<div align="center">
+Systems and AI tooling projects focused on reproducible benchmarking, memory behavior, robotics integration, and practical developer products.
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyeong011)](https://solved.ac/oyeong011)
+## Selected projects
 
-</div>
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [KV-cache Consumer GPU Benchmark](https://github.com/oyeong011/kv-cache-consumer-gpu-bench) | Measures KV-cache footprint, latency, throughput, and OOM boundaries across cache strategies on consumer GPUs. The documented RTX 5080 sweep contains 80 cases: 76 successful runs and 4 OOM cases. | Python, PyTorch, CUDA, Hugging Face |
+| [lab-tools](https://github.com/oyeong011/lab-tools) | Reproducibility-oriented benchmark framework with CPU, CUDA, and Apple Silicon profiles; provenance manifests; energy collection; acceptance bundles; and statistical reports. | Python, Shell, CUDA, C |
+| [Calen](https://github.com/oyeong011/Planit) | macOS menu bar calendar planner integrating Google Calendar, Apple Calendar, Reminders, and locally installed Claude Code or Codex CLI. Distributed through a Homebrew tap and GitHub Releases. | Swift, SwiftUI, EventKit |
+| [Azas](https://github.com/oyeong011/Azas) | Seven-person ROS 2 cocktail-robot project using a Doosan M0609, RG2 gripper, and RealSense camera, with staged no-motion and hardware safety gates. | ROS 2, Python, TF2, MoveItPy |
+| [Memory Hierarchy Experiment Framework](https://github.com/oyeong011/memory-hierarchy-experiment-framework) | C microbenchmarks and `perf` automation for cache locality, access patterns, TLB-related behavior, and matrix blocking experiments. | C, Linux perf, Python, Shell |
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+## Current technical focus
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 Representative Projects </h2>
-<div align="left">
-    <ul>
-        <li>nalsee - 오늘 날씨에 사람들은 뭐입고 나가지?</li>
-        <li><a href="https://github.com/Nal-see/nal-see-front-pwa">Nal-see Front PWA</a></li>
-        <br>
-        <li>공동 편집이 가능한 멘토링 중점 웹 IDE</li>
-        <li><a href="https://github.com/every-ide/IDE-FRONTEND">IDE Frontend</a></li>
-    </ul>
-</div>
-    
+- AI inference systems: KV-cache memory pressure, long-context performance, and GPU measurement
+- Systems performance: memory hierarchy, reproducible experiments, energy, and provenance
+- Product tooling: native macOS workflows and local AI integrations
+- Robotics integration: perception-to-motion boundaries, staged verification, and operational safety
+
+## Languages and tools
+
+`Python` · `C` · `Swift` · `CUDA` · `Shell` · `ROS 2` · `Linux perf` · `GitHub Actions`
+
+## Additional work
+
+- [Financial Database](https://github.com/oyeong011/financial-database) — daily-updated public SEC EDGAR and OpenDART financial-statement dataset
+- [GDB Mentoring](https://github.com/oyeong011/gdb-mentoring) — 13-unit C/C++ debugging curriculum with examples and exercises
+- [Solved.ac profile](https://solved.ac/oyeong011)
